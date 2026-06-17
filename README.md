@@ -55,6 +55,4 @@ When I am not in front of a IDE, you can find me:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSZKaneki&show_icons=true&theme=radical" alt="Bartosz's GitHub Stats" />
-</p>
+
