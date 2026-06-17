@@ -24,15 +24,15 @@ Currently, I am looking for internships in **AI, Data & Cloud Technologies** (su
 
 ### 🚀 Highlighted Projects
 
-#### 🦀 [Rust OS Kernel](https://github.com/BSZKaneki) *(Podmień ten link na bezpośredni link do repozytorium)*
+#### 🦀 [Rust OS Kernel](https://github.com/BSZKaneki/Basic_os) 
 A minimalist, bare-metal operating system kernel written in Rust. Focuses on low-level memory management and direct CPU interactions.
 - *Keywords:* Rust, Systems Programming, Bare-metal, Memory Management
 
-#### 🕷️ [Multi-threaded Web Crawler](https://github.com/BSZKaneki) *(Podmień ten link na bezpośredni link do repozytorium)*
+#### 🕷️ [Multi-threaded Web Crawler](https://github.com/BSZKaneki/search_enginge)
 A highly efficient and concurrent web crawler and indexer designed in Rust to scrape and process web data concurrently.
 - *Keywords:* Rust, Concurrency, Networking, Scrapy
 
-#### 📈 [Stock Market AI Simulation](https://github.com/BSZKaneki) *(Podmień ten link na bezpośredni link do repozytorium)*
+#### 📈 [Stock Market AI Simulation](https://github.com/BSZKaneki/stock_simulation)
 An agent-based financial simulation environment where autonomous AI agents learn to trade and make financial decisions using Machine Learning.
 - *Keywords:* Python, Machine Learning, Reinforcement Learning, Simulation
 
