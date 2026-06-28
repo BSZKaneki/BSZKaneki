@@ -53,12 +53,6 @@ An agent-based financial simulation environment where autonomous AI agents learn
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSZKaneki&show_icons=true&theme=dracula&hide_border=true" alt="Bartosz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSZKaneki&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
