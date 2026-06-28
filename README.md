@@ -48,8 +48,8 @@ A concurrent web crawler and indexer designed in Rust to scrape and process web 
 - *Keywords:* Rust, Concurrency, Multithreading, Asynchronous I/O, Scrapy
 
 #### 📈 [Stock Market AI Simulation](https://github.com/BSZKaneki/stock_simulation)
-An agent-based financial simulation environment where autonomous AI agents learn to trade and make financial decisions using Reinforcement Learning.
-- *Keywords:* Python, Machine Learning, Reinforcement Learning, Mathematical Modeling
+An agent-based financial simulation environment written in Rust where autonomous AI agents learn to trade and make financial decisions using Machine Learning and Reinforcement Learning.
+- *Keywords:* Rust, Machine Learning, Reinforcement Learning, Simulation, Mathematical Modeling
 
 ---
 
